@@ -10,6 +10,7 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
+    background-color: #F8F8FF;
 }
 
 main {
@@ -18,6 +19,17 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 3em;
+}
+
+.container {
+    background-color: #D8BFD8;
+    padding: 5rem;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
 }
 
 .resume {
@@ -115,4 +127,8 @@ i {
 .columnType {
     width: 80px;
     text-align: center;
+}
+
+#type {
+    cursor: pointer;
 }
