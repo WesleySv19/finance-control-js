@@ -132,3 +132,15 @@ i {
 #type {
     cursor: pointer;
 }
+
+.Prohibited {
+    background-color:#00FF00;
+}
+
+.exit {
+    background-color: #FF6347;
+}
+
+.totalDiv {
+   background-color: #B0E0E6;
+}
