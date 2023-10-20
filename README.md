@@ -1,5 +1,4 @@
 # Projeto controle de finanças
-![](./img/project.png)
 ## Projeto desenvolvido com auxílio do canal no Youtube chamado [Will Dev](https://youtu.be/if0KcjYFm-Y?si=r3b5I5XunLbBiy-R), uma excelente forma para praticar minha leitura de código em Javascript e também botar em prática algumas melhorias ao projeto.
 
 ---
